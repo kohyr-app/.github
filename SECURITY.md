@@ -10,7 +10,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Report vulnerabilities privately using GitHub's [Security Advisories](https://github.com/morphism-systems/morphism/security/advisories/new) feature, or email **security@morphism.systems**.
+Report vulnerabilities privately using GitHub's [Security Advisories](https://github.com/kohyr-app/.github/security/advisories/new) feature, or email **security@kohyr.ai**.
 
 Include in your report:
 - Description of the vulnerability

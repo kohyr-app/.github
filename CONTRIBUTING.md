@@ -1,4 +1,4 @@
-# Contributing to Morphism
+# Contributing to Kohyr
 
 Thank you for your interest in contributing!
 
@@ -29,7 +29,7 @@ type(scope): short description
 
 ## Questions?
 
-Use [GitHub Discussions](https://github.com/morphism-systems/morphism/discussions) for questions — not Issues.
+Use [GitHub Discussions](https://github.com/orgs/kohyr-app/discussions) for questions — not Issues.
 
 ## License
 
